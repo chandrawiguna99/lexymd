@@ -20,7 +20,7 @@ global.ntilink = ['120363043965529911@g.us','120363022988111568@g.us']
 global.wlcm = []
 global.gcrevoke = ['19054091487-1424650263@g.us']
 global.packname = "Punya"
-global.packname2 = "Chandra"
+global.packname2 = "Chandraaa"
 global.author = "Chandrapedia"
 global.sessionName = "session"
 global.linkgrupss = "https://chat.whatsapp.com/FKA4YgYx5rp7ySIwT7p6co"
@@ -57,12 +57,12 @@ global.limitawal = {
 }
 // Beli Di Zenz Yo
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	zenz: 'https://api.lolhuman.xyz',
 }
 
 // Isi Api Mu Di sini
 global.APIKeys = {
-	'https://zenzapis.xyz': 'BagasPrdn',
+	'https://api.lolhuman.xyz': 'cfba12c618528faf7ff21755',
 }
 //Thank Fax Bot
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
